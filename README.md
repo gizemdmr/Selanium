@@ -4,7 +4,7 @@
 ### Description:
 Learn Selenium by building a web scraping bot in Python. Selenium is a powerful web automation tool that can be used for browser automation, to test front-end code, and create web scraping bots.
 
-I have used [this] youtube video for a guide.
+I have used [this] youtube video as a guide.
 
 
 
